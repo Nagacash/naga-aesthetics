@@ -1031,6 +1031,10 @@ footer .container {max-width:96%;margin:0px auto;}
 .footericons i {margin-left:5px;margin-right:5px;}
 .footericons a {color:#fff;}
 
+/* .spacer{
+  padding: 90px;
+  
+} */
 
 @media screen and (max-width:1280px) {
 p.comment-form-email, p.comment-form-author, p.comment-form-url {
